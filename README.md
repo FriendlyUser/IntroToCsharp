@@ -10,19 +10,19 @@ sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-plain-gener
 ## Chapters
 
 1. Introduction to C# and .NET
-2. Fundamentals of C#
-3. Object-Oriented Programming in C#
-4. Data Types and Variables
-5. Control Structures and Loops
-6. Arrays and Collections
-7. Exception Handling
-8. LINQ (Language Integrated Query)
-9. Working with Files and Directories
-10. Introduction to .NET Framework
-11. Creating Windows Forms Applications
-12. Creating Web Applications with ASP.NET
-13. Accessing Data with ADO.NET
-14. Advanced Topics in C# and .NET
+1. Fundamentals of C#
+    b. Data Types and Variables
+    c. Control Structures and Loops
+    d. Arrays and Collections
+    e. Exception Handling
+1. Object-Oriented Programming in C#
+1. LINQ (Language Integrated Query)
+1. Working with Files and Directories
+1. Introduction to http requests
+1. Creating Windows Forms Applications
+1. Creating Web Applications with ASP.NET
+1. Accessing Data with ADO.NET
+1. Advanced Topics in C# and .NET
 
 ###  Some advanced topics in C# include:
 
