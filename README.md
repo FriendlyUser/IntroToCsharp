@@ -2,6 +2,11 @@
 Introduction to Csharp using polygot notebooks.
 
 
+Must install xlatex
+```
+sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-plain-generic pandoc
+```
+
 ## Chapters
 
 1. Introduction to C# and .NET
