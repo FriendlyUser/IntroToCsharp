@@ -5,6 +5,7 @@ Introduction to Csharp using polygot notebooks.
 Must install xlatex
 ```
 sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-plain-generic pandoc
+dotnet add package FSharp.Core --version 7.0.200
 ```
 
 ## Chapters
