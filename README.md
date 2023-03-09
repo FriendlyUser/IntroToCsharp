@@ -33,3 +33,8 @@ sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-plain-gener
 * Reflection
 * Unsafe code and pointers
 * Attributes
+
+
+For sql
+
+https://devblogs.microsoft.com/dotnet/net-interactive-with-sql-net-notebooks-in-visual-studio-code/
