@@ -22,8 +22,8 @@ dotnet add package FSharp.Core --version 7.0.200
 1. Introduction to http requests
 1. Creating Windows Forms Applications
 1. Creating Web Applications with ASP.NET
-1. Accessing Data with ADO.NET
-1. Advanced Topics in C# and .NET
+1. Data Science with F#
+1. Projects in C#
 
 ###  Some advanced topics in C# include:
 
